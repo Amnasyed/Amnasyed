@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on android applications,design android apps on Figma and I also help students in their android tasks to final year projects as well.
+- 🔭 I’m currently working on android applications, I also design android apps on Figma and help students in their android tasks to final year projects as well.
 - 🌱 I’m currently learning kotlin and dart
 - 👯 I’m looking to collaborate on flutter
 - ⚡ Fun fact: I love to code everyday
